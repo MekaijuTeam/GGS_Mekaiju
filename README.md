@@ -1,2 +1,2 @@
 # Mekaiju
-Page GitHub du projet Mekaiju pour le Gamagora Game Show, contenant pour l'instant le Game Concept Document.
+Page GitHub du projet Mekaiju pour le Gamagora Game Show, contenant le Game Concept Document et le Game Design Document.
